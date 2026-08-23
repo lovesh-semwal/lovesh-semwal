@@ -43,16 +43,6 @@ I'm a Computer Science student passionate about building **real-world web applic
 
 ## 🚀 Featured Projects
 
-### 🛣️ Safe-Routes
-
-A full-stack route planning application focused on helping users discover safer routes using real-world mapping and route data.
-
-**Tech:** React • Node.js • Express • APIs
-
-🔗 [View Repository](https://github.com/lovesh-semwal)
-
----
-
 ### 🚨 LifeLine-AI
 
 A full-stack emergency assistance platform designed to connect users with nearby hospitals, blood donors and AI-powered emergency support.
@@ -73,15 +63,6 @@ An AI-powered career platform designed to help students explore different career
 
 ---
 
-### ♻️ EcoSort
-
-A circular marketplace concept designed to connect waste/material suppliers with buyers and encourage reuse and recycling.
-
-**Tech:** React • Node.js • Express • MongoDB
-
-🔗 [View Repository](https://github.com/lovesh-semwal)
-
----
 
 ### 🌐 Portfolio Website
 
