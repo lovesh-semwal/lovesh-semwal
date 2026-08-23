@@ -66,13 +66,14 @@ An AI-powered career platform designed to help students explore different career
 ---
 
 
-### 🌐 Portfolio Website
+### 📚 LessonForge
 
-My personal portfolio showcasing my projects, technical skills and development journey.
+An AI-powered lesson planning assistant designed to help teachers create structured, engaging and personalized lesson plans more efficiently.
 
-**Tech:** HTML • CSS • JavaScript
+**Tech:** React • JavaScript • AI • Web Development
 
-🔗 [View Repository](https://github.com/lovesh-semwal/Portfolio-Website)
+🔗 [View Repository](https://github.com/lovesh-semwal/LessonForge)
+
 
 ---
 
@@ -91,25 +92,6 @@ Git & GitHub
 
 ---
 
-## 🎯 2026 Goals
-
-* 🚀 Become a strong Full-Stack Developer
-* 🧠 Improve Data Structures & Algorithms
-* 🤖 Build more AI-powered applications
-* 💼 Prepare for software development internships
-* 🏆 Participate in more hackathons
-* 🌍 Build projects that solve real-world problems
-* 📚 Contribute to open-source projects
-
----
-
-## 📊 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lovesh-semwal\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lovesh-semwal\&layout=compact\&theme=tokyonight\&hide_border=true)
-
----
 
 ## 🤝 Let's Connect
 
@@ -117,10 +99,16 @@ Git & GitHub
 <a href="https://github.com/lovesh-semwal">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
+<a href="https://www.linkedin.com/in/lovesh-semwal-702724373?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 <a href="mailto:loveshsemwal289@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
+
 
 ---
 
